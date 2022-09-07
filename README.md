@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![PostCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=PostCSS&logoColor=FFFFFF&label=)
   ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
- ![Preact](https://img.shields.io/static/v1?style=for-the-badge&message=Preact&color=673AB8&logo=Preact&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
 - 🌐 &nbsp;
   ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
