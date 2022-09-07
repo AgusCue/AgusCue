@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/agustin-cuello/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />  cuelloagustin3@gmail.com
+    ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)cuelloagustin3@gmail.com
   </div>
  <h1 align="center">Hi 👋, I`am Agustin Cuello</h1>
 </div>
