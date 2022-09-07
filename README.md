@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47m7wa41omsa23mxp00i4wr6rn0dvxpo0d80qpwla4&rid=giphy.gif&ct=ts" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/agustin-cuello/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
