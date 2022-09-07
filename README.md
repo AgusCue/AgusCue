@@ -2,7 +2,7 @@
   <h1> <img src="favicon.png" width="80px"><br/>Github Profile Page Creator</h1>
 </div>
 <p align="center">
-  <a href="https://linkedin.com/in/iamsatyajit" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
+  <a href="https://www.linkedin.com/in/agustin-cuello/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
   <a href="https://twitter.com/iamsatyajit05" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30px"></a>
 </p>
 
