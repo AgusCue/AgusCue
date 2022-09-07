@@ -1,16 +1,26 @@
-<div align="center">
-  <h1> <img src="favicon.png" width="80px"><br/>Github Profile Page Creator</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="www.linkedin.com/in/mariano-bozzoletti">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=MarianBzz&style=flat-square&color=blue" alt=""/>
+ <h1 align="center">Hi 👋, I`am Mariano Bozzoletti</h1>
 </div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/agustin-cuello/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
-</p>
-
-## Features
-- Header Image
-- Skill & Social Badge
-- Github Addons, Like Badge, Trophy, Profile View, Profile Stats...
-- With No Extra Cost
-
+  </div>
+  
+ 
+  
+  
+### :man_technologist: About Me :
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+  
+- 🤔 &nbsp; Exploring new technologies and developing new projects.
+- 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
+- 💼 &nbsp; I'm currently looking for work
+- 🌱 &nbsp; Learning more about SCRUM, React Native, Typescript and different frameworks.
+- ✍️ &nbsp; I'm currently working on a group project.
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp;
