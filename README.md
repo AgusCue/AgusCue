@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47m7wa41omsa23mxp00i4wr6rn0dvxpo0d80qpwla4&rid=giphy.gif&ct=ts" width="100"/>
+  <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e472gs46bvjpdhn1ahc936xxzcsy5wsi5zli8e190e9&rid=giphy.gif&ct=s" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/agustin-cuello/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,7 +23,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing new projects.
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
 - 💼 &nbsp; I'm currently looking for work
-- 🌱 &nbsp; Learning more about SCRUM, React Native, Typescript and different frameworks.
+- 🌱 &nbsp; Learning more about SCRUM, Typescript and different frameworks.
 - ✍️ &nbsp; I'm currently working on a group project.
 <h3>Tech Stack</h3>
 
