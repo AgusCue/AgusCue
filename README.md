@@ -15,8 +15,8 @@
 
 - 💻 &nbsp;
  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![PostCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=PostCSS&logoColor=FFFFFF&label=)
   ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
